@@ -27,9 +27,9 @@
 		</dict>
 	</array>
 	<key>Extension Name</key>
-	<string>Comment out block</string>
+	<string>BlockCommentOut</string>
 	<key>Extension Description</key>
-	<string>Comment out block</string>
+	<string>Add/Remove a block comment-out to the selecting area</string>
 	<key>Extension Identifier</key>
 	<string>co.fukuyama.popclip.extension.block_commentout</string>
 	<key>Required Apps</key>
