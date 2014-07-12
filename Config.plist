@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>After</key>
+      <string>paste-result</string>
+			<key>Image File</key>
+			<string>block_commentout.png</string>
+			<key>Script Interpreter</key>
+			<string>/bin/bash</string>
+			<key>Shell Script File</key>
+			<string>block_commentout.sh</string>
+			<key>Title</key>
+			<string>Comment out block</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>http://fukuyama.co</string>
+			<key>Name</key>
+			<string>Shingo Fukuyama</string>
+		</dict>
+	</array>
+	<key>Extension Name</key>
+	<string>Comment out block</string>
+	<key>Extension Description</key>
+	<string>Comment out block</string>
+	<key>Extension Identifier</key>
+	<string>co.fukuyama.popclip.extension.block_commentout</string>
+	<key>Required Apps</key>
+	<integer>701</integer>
+</dict>
+</plist>
