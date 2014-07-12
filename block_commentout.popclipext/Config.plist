@@ -14,7 +14,7 @@
 			<key>Shell Script File</key>
 			<string>block_commentout.sh</string>
 			<key>Title</key>
-			<string>Comment out block</string>
+			<string>BlockCommentOut</string>
 		</dict>
 	</array>
 	<key>Credits</key>
