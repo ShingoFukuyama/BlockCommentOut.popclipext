@@ -4,7 +4,7 @@
 
 ![BlockCommentOut icon](https://raw.githubusercontent.com/ShingoFukuyama/BlockCommentOut.popclipext/master/block_commentout.popclipext/block_commentout.png)
 
-This is a PopClip Extension for wrapping the selected area with /* */ and also unwrap it.
+This is a PopClip Extension for wrapping/unwrapping the selected area with /* */.
 
 ## Install
 
